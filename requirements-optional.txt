@@ -1,0 +1,16 @@
+# AI 漫剧管线 · 可选依赖
+#
+# 这些不是必需的。不装也能跑主流程，只是少了对应功能。
+#
+#   pip install -r requirements-optional.txt
+
+# ---- 字幕自动对齐（从视频里识别台词时间点）----
+# 用途：用户自己剪完片子后，用语音识别把配音的时间点找出来生成字幕
+# 体积：约 90 MB（含依赖）；模型另需下载 ~460 MB
+# 注意：国内需要设置 HF_ENDPOINT=https://hf-mirror.com
+faster-whisper>=1.0,<2.0
+
+# ---- 本地出图（可选，需要先装 ComfyUI）----
+# 如果只用云端 API（火山方舟 Seedream 等），不需要这些
+# torch>=2.0
+# torchvision>=0.15

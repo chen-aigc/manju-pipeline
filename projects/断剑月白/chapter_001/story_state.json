@@ -1,0 +1,607 @@
+{
+  "chapter": 0,
+  "shots": {
+    "shot_001": {
+      "characters": {
+        "林越": {
+          "emotion": "迟疑",
+          "clothing": "（未指定）"
+        }
+      },
+      "scene": "院门外",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:00:31"
+    },
+    "shot_002": {
+      "characters": {
+        "林越": {
+          "emotion": "隐忍",
+          "clothing": "（未指定）"
+        }
+      },
+      "scene": "院门外",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:00:47"
+    },
+    "shot_003": {
+      "characters": {
+        "林越": {
+          "emotion": "沉重",
+          "clothing": "（未指定）"
+        }
+      },
+      "scene": "院门外",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:01:00"
+    },
+    "shot_004": {
+      "characters": {
+        "月白": {
+          "emotion": "平静",
+          "clothing": "月白"
+        },
+        "林越": {
+          "emotion": "平静",
+          "clothing": "月白"
+        }
+      },
+      "scene": "院门内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:01:11"
+    },
+    "shot_005": {
+      "characters": {
+        "林越": {
+          "emotion": "坚决",
+          "clothing": "月白"
+        },
+        "月白": {
+          "emotion": "坚决",
+          "clothing": "月白"
+        }
+      },
+      "scene": "院门内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:01:24"
+    },
+    "shot_006": {
+      "characters": {
+        "月白": {
+          "emotion": "关切",
+          "clothing": "月白"
+        },
+        "林越": {
+          "emotion": "关切",
+          "clothing": "月白"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:01:37"
+    },
+    "shot_007": {
+      "characters": {},
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:01:48"
+    },
+    "shot_008": {
+      "characters": {
+        "月白": {
+          "emotion": "专注",
+          "clothing": "月白"
+        },
+        "林越": {
+          "emotion": "专注",
+          "clothing": "月白"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:02:10"
+    },
+    "shot_009": {
+      "characters": {
+        "月白": {
+          "emotion": "关切",
+          "clothing": "月白"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:02:27"
+    },
+    "shot_010": {
+      "characters": {
+        "林越": {
+          "emotion": "嘴硬",
+          "clothing": "月白"
+        },
+        "月白": {
+          "emotion": "嘴硬",
+          "clothing": "月白"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:02:42"
+    },
+    "shot_011": {
+      "characters": {
+        "月白": {
+          "emotion": "嗔怪",
+          "clothing": "月白"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:02:54"
+    },
+    "shot_012": {
+      "characters": {
+        "月白": {
+          "emotion": "心疼",
+          "clothing": "月白"
+        },
+        "林越": {
+          "emotion": "心疼",
+          "clothing": "月白"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:03:06"
+    },
+    "shot_013": {
+      "characters": {
+        "林越": {
+          "emotion": "动容",
+          "clothing": "月白"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:03:22"
+    },
+    "shot_014": {
+      "characters": {},
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:03:36"
+    },
+    "shot_015": {
+      "characters": {
+        "林越": {
+          "emotion": "关切",
+          "clothing": "月白"
+        },
+        "月白": {
+          "emotion": "关切",
+          "clothing": "月白"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:03:46"
+    },
+    "shot_016": {
+      "characters": {
+        "林越": {
+          "emotion": "嘴硬",
+          "clothing": "月白"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:04:03"
+    },
+    "shot_017": {
+      "characters": {
+        "林越": {
+          "emotion": "嗔怪",
+          "clothing": "月白"
+        },
+        "月白": {
+          "emotion": "嗔怪",
+          "clothing": "月白"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:04:23"
+    },
+    "shot_018": {
+      "characters": {
+        "林越": {
+          "emotion": "心疼",
+          "clothing": "月白"
+        },
+        "月白": {
+          "emotion": "心疼",
+          "clothing": "月白"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:04:34"
+    },
+    "shot_019": {
+      "characters": {
+        "月白": {
+          "emotion": "嗔怪",
+          "clothing": "月白"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:04:45"
+    },
+    "shot_020": {
+      "characters": {},
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:05:00"
+    },
+    "shot_021": {
+      "characters": {
+        "林越": {
+          "emotion": "隐忍",
+          "clothing": "月白"
+        },
+        "月白": {
+          "emotion": "隐忍",
+          "clothing": "月白"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:05:13"
+    },
+    "shot_022": {
+      "characters": {},
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:05:22"
+    },
+    "shot_023": {
+      "characters": {
+        "林越": {
+          "emotion": "敬畏",
+          "clothing": "铠甲"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:05:33"
+    },
+    "shot_024": {
+      "characters": {
+        "林越": {
+          "emotion": "对比",
+          "clothing": "月白/铠甲"
+        },
+        "月白": {
+          "emotion": "对比",
+          "clothing": "月白/铠甲"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:05:47"
+    },
+    "shot_025": {
+      "characters": {
+        "林越": {
+          "emotion": "心疼",
+          "clothing": "月白"
+        },
+        "月白": {
+          "emotion": "心疼",
+          "clothing": "月白"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:06:05"
+    },
+    "shot_026": {
+      "characters": {
+        "林越": {
+          "emotion": "温暖",
+          "clothing": "月白/铠甲"
+        },
+        "月白": {
+          "emotion": "温暖",
+          "clothing": "月白/铠甲"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:06:17"
+    },
+    "shot_027": {
+      "characters": {},
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:06:42"
+    },
+    "shot_028": {
+      "characters": {
+        "月白": {
+          "emotion": "专注",
+          "clothing": "月白"
+        }
+      },
+      "scene": "破屋屋内",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:06:55"
+    },
+    "shot_029": {
+      "characters": {
+        "月白": {
+          "emotion": "温柔",
+          "clothing": "月白"
+        },
+        "林越": {
+          "emotion": "温柔",
+          "clothing": "月白"
+        }
+      },
+      "scene": "屋内灯下",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:07:15"
+    },
+    "shot_030": {
+      "characters": {
+        "月白": {
+          "emotion": "向往",
+          "clothing": "月白"
+        }
+      },
+      "scene": "屋内灯下",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:07:29"
+    },
+    "shot_031": {
+      "characters": {
+        "月白": {
+          "emotion": "温柔",
+          "clothing": "月白"
+        },
+        "林越": {
+          "emotion": "温柔",
+          "clothing": "月白"
+        }
+      },
+      "scene": "屋内灯下",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:07:47"
+    },
+    "shot_032": {
+      "characters": {
+        "月白": {
+          "emotion": "期盼",
+          "clothing": "月白"
+        },
+        "林越": {
+          "emotion": "期盼",
+          "clothing": "月白"
+        }
+      },
+      "scene": "屋内灯下",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:08:08"
+    },
+    "shot_033": {
+      "characters": {
+        "月白": {
+          "emotion": "娇嗔",
+          "clothing": "月白"
+        }
+      },
+      "scene": "屋内灯下",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:08:19"
+    },
+    "shot_034": {
+      "characters": {
+        "林越": {
+          "emotion": "温和",
+          "clothing": "月白"
+        }
+      },
+      "scene": "屋内灯下",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:08:30"
+    },
+    "shot_035": {
+      "characters": {},
+      "scene": "屋内灯下",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:08:39"
+    },
+    "shot_036": {
+      "characters": {},
+      "scene": "屋内灯下",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:08:49"
+    },
+    "shot_037": {
+      "characters": {
+        "月白": {
+          "emotion": "温柔",
+          "clothing": "月白"
+        },
+        "林越": {
+          "emotion": "温柔",
+          "clothing": "月白"
+        }
+      },
+      "scene": "屋内灯下",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:09:09"
+    },
+    "shot_038": {
+      "characters": {
+        "月白": {
+          "emotion": "坚持",
+          "clothing": "月白"
+        }
+      },
+      "scene": "屋内灯下",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:09:28"
+    },
+    "shot_039": {
+      "characters": {
+        "林越": {
+          "emotion": "郑重",
+          "clothing": "月白"
+        },
+        "月白": {
+          "emotion": "郑重",
+          "clothing": "月白"
+        }
+      },
+      "scene": "屋内灯下",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:09:40"
+    },
+    "shot_040": {
+      "characters": {
+        "林越": {
+          "emotion": "温馨",
+          "clothing": "月白"
+        },
+        "月白": {
+          "emotion": "温馨",
+          "clothing": "月白"
+        }
+      },
+      "scene": "屋内灯下",
+      "light": "",
+      "time_of_day": "",
+      "location": "",
+      "events": [],
+      "recorded_at": "2026-11-20T17:10:01"
+    }
+  },
+  "updated_at": "2026-11-20T17:10:01"
+}

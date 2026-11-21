@@ -1,0 +1,923 @@
+{
+  "chapter": 1,
+  "title": "第一章 雪夜灯会",
+  "shots": [
+    {
+      "index": 1,
+      "scene": "院门外",
+      "shot_type": "远景",
+      "narration": "那年雪夜，他站在院门外。",
+      "dialogues": [],
+      "image_prompt": "大雪纷飞的夜晚，一个满身血污的年轻将军站在院门外，台阶上积雪被扫得干干净净，他低头看着自己的脏靴子，不敢迈步。",
+      "image_prompt_en": "snowy night, wounded young general standing outside courtyard gate, clean swept steps, bloodstained armor, hesitant posture",
+      "action_en": "standing still outside gate",
+      "emotion": "迟疑",
+      "emotion_en": "hesitant expression, lowered eyes",
+      "camera": "缓推",
+      "prop": "断剑",
+      "characters": [
+        "林越"
+      ],
+      "act": "驻足门外"
+    },
+    {
+      "index": 2,
+      "scene": "院门外",
+      "shot_type": "中景",
+      "narration": "",
+      "dialogues": [],
+      "image_prompt": "林越的手垂在身侧，指节上全是冻裂的口子和凝固的血痂，微微发抖。",
+      "image_prompt_en": "close-up of frostbitten hand with cracked knuckles and dried blood, trembling slightly",
+      "action_en": "trembling hand at side",
+      "emotion": "隐忍",
+      "emotion_en": "pained expression, tight jaw",
+      "camera": "固定",
+      "prop": "",
+      "characters": [
+        "林越"
+      ],
+      "act": "手在发抖"
+    },
+    {
+      "index": 3,
+      "scene": "院门内",
+      "shot_type": "中景",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "月白",
+          "text": "站那儿干什么，进来。",
+          "emotion": "心疼"
+        }
+      ],
+      "image_prompt": "月白推开门，手里还拿着扫帚，看见他满身血污，眉头一皱，上前一步拽住他的手腕往屋里拉。",
+      "image_prompt_en": "young woman opening door, holding broom, grabbing wounded man's wrist, pulling him inside, concerned face",
+      "action_en": "pulling him inside",
+      "emotion": "心疼",
+      "emotion_en": "worried expression, furrowed brows",
+      "camera": "固定",
+      "prop": "扫帚",
+      "characters": [
+        "月白",
+        "林越"
+      ],
+      "act": "拽他进屋"
+    },
+    {
+      "index": 4,
+      "scene": "破屋屋内",
+      "shot_type": "中景",
+      "narration": "",
+      "dialogues": [],
+      "image_prompt": "月白把林越按在木凳上，转身端来一盆温水，放在油灯旁的小桌上。",
+      "image_prompt_en": "woman pressing man onto wooden stool, carrying basin of warm water, placing it on table beside oil lamp",
+      "action_en": "pressing him onto stool",
+      "emotion": "平静",
+      "emotion_en": "calm expression, focused eyes",
+      "camera": "横移",
+      "prop": "木盆",
+      "characters": [
+        "月白",
+        "林越"
+      ],
+      "act": "按他坐下"
+    },
+    {
+      "index": 5,
+      "scene": "破屋屋内",
+      "shot_type": "死物",
+      "narration": "",
+      "dialogues": [],
+      "image_prompt": "月白的手浸在温水里，拧干布巾，水珠顺着她指缝滴落，油灯光映在水面上。",
+      "image_prompt_en": "close-up of woman's hands wringing cloth in warm water, water droplets falling, oil lamp reflection",
+      "action_en": "wringing wet cloth",
+      "emotion": "专注",
+      "emotion_en": "focused expression, gentle eyes",
+      "camera": "俯视",
+      "prop": "布巾",
+      "characters": [
+        "月白"
+      ],
+      "act": "拧干布巾"
+    },
+    {
+      "index": 6,
+      "scene": "破屋屋内",
+      "shot_type": "中景",
+      "narration": "",
+      "dialogues": [],
+      "image_prompt": "月白低头，用温热的布巾一点点擦林越手背上的冻疮和刀口，动作很轻。",
+      "image_prompt_en": "woman gently wiping man's frostbitten and cut hand with warm cloth, head bowed, soft lamplight",
+      "action_en": "wiping his hand gently",
+      "emotion": "温柔",
+      "emotion_en": "gentle expression, soft eyes",
+      "camera": "固定",
+      "prop": "布巾",
+      "characters": [
+        "月白",
+        "林越"
+      ],
+      "act": "擦拭伤口"
+    },
+    {
+      "index": 7,
+      "scene": "破屋屋内",
+      "shot_type": "特写",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "月白",
+          "text": "疼就说。",
+          "emotion": "心疼"
+        }
+      ],
+      "image_prompt": "月白抬眼看林越，眉头微蹙，嘴唇轻启，手里还握着他的手。",
+      "image_prompt_en": "woman looking up at man, slight frown, lips parted, still holding his hand, warm lamp glow",
+      "action_en": "looking up at him",
+      "emotion": "心疼",
+      "emotion_en": "worried expression, soft eyes",
+      "camera": "缓推",
+      "prop": "",
+      "characters": [
+        "月白"
+      ],
+      "act": "抬眼看他"
+    },
+    {
+      "index": 8,
+      "scene": "破屋屋内",
+      "shot_type": "过肩",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "林越",
+          "text": "不疼。",
+          "emotion": "隐忍"
+        }
+      ],
+      "image_prompt": "从月白肩后看林越，他别过脸，嘴唇紧抿，手却不由自主地抖了一下。",
+      "image_prompt_en": "over woman's shoulder, man turning face away, lips pressed tight, hand trembling slightly",
+      "action_en": "turning face away",
+      "emotion": "隐忍",
+      "emotion_en": "pained expression, tight jaw",
+      "camera": "固定",
+      "prop": "",
+      "characters": [
+        "林越",
+        "月白"
+      ],
+      "act": "别过脸"
+    },
+    {
+      "index": 9,
+      "scene": "破屋屋内",
+      "shot_type": "特写",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "月白",
+          "text": "骗人。你手都在抖。",
+          "emotion": "嗔怪"
+        }
+      ],
+      "image_prompt": "月白低头朝他的手吹了吹，热气在油灯下散开，她睫毛低垂。",
+      "image_prompt_en": "woman blowing gently on his hand, warm breath visible in lamplight, lowered eyelashes",
+      "action_en": "blowing on his hand",
+      "emotion": "嗔怪",
+      "emotion_en": "gentle scolding expression, soft eyes",
+      "camera": "固定",
+      "prop": "",
+      "characters": [
+        "月白"
+      ],
+      "act": "低头吹手"
+    },
+    {
+      "index": 10,
+      "scene": "破屋屋内",
+      "shot_type": "空镜",
+      "narration": "后来每一次他回来，",
+      "dialogues": [],
+      "image_prompt": "油灯焰心轻轻摇曳，桌上放着带血的布巾和一碗凉水，窗外雪光映进来。",
+      "image_prompt_en": "oil lamp flame flickering, bloody cloth and bowl of water on table, snow light through window",
+      "action_en": "lamp flame flickering",
+      "emotion": "静谧",
+      "emotion_en": "quiet atmosphere, soft glow",
+      "camera": "固定",
+      "prop": "油灯",
+      "characters": [],
+      "act": "灯焰摇曳"
+    },
+    {
+      "index": 11,
+      "scene": "院门外",
+      "shot_type": "远景",
+      "narration": "全世界都敬畏地后退半步，",
+      "dialogues": [],
+      "image_prompt": "白天，林越身披铠甲站在院门外，周围几个村民和士兵低头后退，让出一片空地，只有他孤零零站着。",
+      "image_prompt_en": "daytime, armored general standing alone, villagers and soldiers stepping back with bowed heads, clearing space",
+      "action_en": "crowd stepping back",
+      "emotion": "疏离",
+      "emotion_en": "distant expression, lowered heads",
+      "camera": "拉远",
+      "prop": "",
+      "characters": [
+        "林越"
+      ],
+      "act": "众人后退"
+    },
+    {
+      "index": 12,
+      "scene": "院门内",
+      "shot_type": "中景",
+      "narration": "只有她敢伸手碰他的伤口。",
+      "dialogues": [],
+      "image_prompt": "月白从门内跑出来，毫不迟疑地伸手抓住林越的手臂，把他往屋里带，旁人还在后退。",
+      "image_prompt_en": "woman running out from door, grabbing man's arm without hesitation, pulling him inside, others still stepping back",
+      "action_en": "grabbing his arm",
+      "emotion": "坚定",
+      "emotion_en": "determined expression, steady eyes",
+      "camera": "固定",
+      "prop": "",
+      "characters": [
+        "月白",
+        "林越"
+      ],
+      "act": "伸手抓他"
+    },
+    {
+      "index": 13,
+      "scene": "破屋屋内",
+      "shot_type": "特写",
+      "narration": "",
+      "dialogues": [],
+      "image_prompt": "月白张开双臂，紧紧抱住林越冰冷的铠甲，脸贴在他胸口，闭上眼睛。",
+      "image_prompt_en": "woman hugging man's cold armor tightly, face pressed to chest, eyes closed, warm interior",
+      "action_en": "hugging him tightly",
+      "emotion": "心疼",
+      "emotion_en": "tender expression, closed eyes",
+      "camera": "缓推",
+      "prop": "",
+      "characters": [
+        "月白",
+        "林越"
+      ],
+      "act": "紧紧抱住"
+    },
+    {
+      "index": 14,
+      "scene": "破屋屋内",
+      "shot_type": "中景",
+      "narration": "暮色里，针线细细穿梭。",
+      "dialogues": [],
+      "image_prompt": "傍晚，月白坐在窗边，低头替林越缝补衣袍，针线在暮色中慢慢穿梭，林越坐在对面看她。",
+      "image_prompt_en": "dusk, woman sitting by window mending robe, needle and thread moving slowly, man sitting opposite watching her",
+      "action_en": "sewing robe slowly",
+      "emotion": "安宁",
+      "emotion_en": "peaceful expression, soft gaze",
+      "camera": "横移",
+      "prop": "针线",
+      "characters": [
+        "月白",
+        "林越"
+      ],
+      "act": "缝补衣袍"
+    },
+    {
+      "index": 15,
+      "scene": "破屋屋内",
+      "shot_type": "中景",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "月白",
+          "text": "林越，城南上元节有灯会。",
+          "emotion": "期待"
+        }
+      ],
+      "image_prompt": "月白坐在油灯旁，手里拿着针线，抬头看向林越，眼神带着期待。",
+      "image_prompt_en": "young woman sitting by oil lamp, holding needle, looking up at man with hopeful eyes, dim room",
+      "action_en": "looking up at man",
+      "emotion": "期待",
+      "emotion_en": "hopeful expression, soft eyes",
+      "camera": "固定",
+      "prop": "针线",
+      "characters": [
+        "月白",
+        "林越"
+      ],
+      "act": "抬头说话"
+    },
+    {
+      "index": 16,
+      "scene": "破屋屋内",
+      "shot_type": "特写",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "月白",
+          "text": "听说今年的灯扎成了龙的样子。",
+          "emotion": "向往"
+        }
+      ],
+      "image_prompt": "月白眼睛发亮，嘴角微微上扬，手里的针停住。",
+      "image_prompt_en": "young woman's face close-up, eyes sparkling, slight smile, needle paused in hand",
+      "action_en": "smiling with sparkling eyes",
+      "emotion": "向往",
+      "emotion_en": "dreamy expression, bright eyes",
+      "camera": "缓推",
+      "prop": "针线",
+      "characters": [
+        "月白"
+      ],
+      "act": "微笑向往"
+    },
+    {
+      "index": 17,
+      "scene": "破屋屋内",
+      "shot_type": "过肩",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "月白",
+          "text": "从桥这头一直排到那头。",
+          "emotion": "兴奋"
+        }
+      ],
+      "image_prompt": "从林越肩后看月白，她双手比划着灯的长度，身体微微前倾。",
+      "image_prompt_en": "over man's shoulder, woman gesturing with hands, leaning forward, excited expression",
+      "action_en": "gesturing with hands",
+      "emotion": "兴奋",
+      "emotion_en": "excited expression, animated",
+      "camera": "固定",
+      "prop": "",
+      "characters": [
+        "月白",
+        "林越"
+      ],
+      "act": "比划灯会"
+    },
+    {
+      "index": 18,
+      "scene": "破屋屋内",
+      "shot_type": "中景",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "林越",
+          "text": "嗯。",
+          "emotion": "平静"
+        }
+      ],
+      "image_prompt": "林越坐在对面，低头看着自己缠着布条的手，轻声应了一句。",
+      "image_prompt_en": "young man sitting opposite, looking down at bandaged hand, speaking softly",
+      "action_en": "looking down at hand",
+      "emotion": "平静",
+      "emotion_en": "calm expression, neutral",
+      "camera": "固定",
+      "prop": "布条",
+      "characters": [
+        "林越"
+      ],
+      "act": "低声应答"
+    },
+    {
+      "index": 19,
+      "scene": "破屋屋内",
+      "shot_type": "特写",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "月白",
+          "text": "等打完这一仗，我们去看。",
+          "emotion": "认真"
+        }
+      ],
+      "image_prompt": "月白把线咬断，抬头直视林越，眼神坚定。",
+      "image_prompt_en": "young woman biting thread, looking directly at man, determined eyes",
+      "action_en": "biting thread, looking up",
+      "emotion": "认真",
+      "emotion_en": "determined expression, firm gaze",
+      "camera": "缓推",
+      "prop": "线",
+      "characters": [
+        "月白"
+      ],
+      "act": "咬断线头"
+    },
+    {
+      "index": 20,
+      "scene": "破屋屋内",
+      "shot_type": "中景",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "月白",
+          "text": "就一天。不许说军情紧急。",
+          "emotion": "娇嗔"
+        }
+      ],
+      "image_prompt": "月白伸出一根手指，假装严肃地指着林越，眼里带着笑意。",
+      "image_prompt_en": "young woman pointing one finger at man, playful stern expression, smiling eyes",
+      "action_en": "pointing finger at man",
+      "emotion": "娇嗔",
+      "emotion_en": "playful stern expression",
+      "camera": "固定",
+      "prop": "",
+      "characters": [
+        "月白",
+        "林越"
+      ],
+      "act": "伸手比一"
+    },
+    {
+      "index": 21,
+      "scene": "破屋屋内",
+      "shot_type": "特写",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "林越",
+          "text": "好。",
+          "emotion": "温和"
+        }
+      ],
+      "image_prompt": "林越嘴角微微扬起，眼神温柔，轻轻点头。",
+      "image_prompt_en": "young man's face close-up, slight smile, gentle eyes, nodding slightly",
+      "action_en": "nodding slightly",
+      "emotion": "温和",
+      "emotion_en": "gentle expression, soft smile",
+      "camera": "固定",
+      "prop": "",
+      "characters": [
+        "林越"
+      ],
+      "act": "点头答应"
+    },
+    {
+      "index": 22,
+      "scene": "破屋屋内",
+      "shot_type": "空镜",
+      "narration": "那是她唯一一次跟他讨要东西。",
+      "dialogues": [],
+      "image_prompt": "油灯焰心轻轻跳动，灯下放着缝了一半的衣袍和针线篮，屋内安静。",
+      "image_prompt_en": "oil lamp flame flickering, half-sewn robe and sewing basket on table, quiet room",
+      "action_en": "",
+      "emotion": "静谧",
+      "emotion_en": "quiet atmosphere",
+      "camera": "固定",
+      "prop": "油灯、衣袍",
+      "characters": [],
+      "act": ""
+    },
+    {
+      "index": 23,
+      "scene": "破屋屋内",
+      "shot_type": "中景",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "月白",
+          "text": "很俗吧？就一场灯会。",
+          "emotion": "自嘲"
+        }
+      ],
+      "image_prompt": "月白低头继续缝衣，嘴角带着一点自嘲的笑，声音很轻。",
+      "image_prompt_en": "young woman sewing, looking down, self-deprecating smile, soft voice",
+      "action_en": "sewing, looking down",
+      "emotion": "自嘲",
+      "emotion_en": "self-deprecating smile",
+      "camera": "固定",
+      "prop": "针线",
+      "characters": [
+        "月白"
+      ],
+      "act": "低头缝衣"
+    },
+    {
+      "index": 24,
+      "scene": "破屋屋内",
+      "shot_type": "特写",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "林越",
+          "text": "不俗。",
+          "emotion": "认真"
+        }
+      ],
+      "image_prompt": "林越直视月白，眼神认真，手轻轻覆上她缝衣的手。",
+      "image_prompt_en": "young man looking intently at woman, hand gently covering her sewing hand",
+      "action_en": "covering her hand gently",
+      "emotion": "认真",
+      "emotion_en": "serious expression, intense gaze",
+      "camera": "缓推",
+      "prop": "针线",
+      "characters": [
+        "林越",
+        "月白"
+      ],
+      "act": "覆手"
+    },
+    {
+      "index": 25,
+      "scene": "破屋屋内",
+      "shot_type": "过肩",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "月白",
+          "text": "那你可记好了，别食言。",
+          "emotion": "含笑"
+        }
+      ],
+      "image_prompt": "从林越肩后看月白，她抬起头，眼里映着灯光，嘴角含笑。",
+      "image_prompt_en": "over man's shoulder, woman looking up, lamp light reflected in eyes, smiling",
+      "action_en": "looking up, smiling",
+      "emotion": "含笑",
+      "emotion_en": "smiling expression, warm eyes",
+      "camera": "固定",
+      "prop": "",
+      "characters": [
+        "月白",
+        "林越"
+      ],
+      "act": "抬头含笑"
+    },
+    {
+      "index": 26,
+      "scene": "破屋屋内",
+      "shot_type": "死物",
+      "narration": "",
+      "dialogues": [],
+      "image_prompt": "缝好的衣袍叠放在桌上，针线篮旁多了一小截断线，油灯映着衣袍的纹理。",
+      "image_prompt_en": "folded mended robe on table, sewing basket with cut thread, oil lamp glow",
+      "action_en": "",
+      "emotion": "温馨",
+      "emotion_en": "warm atmosphere",
+      "camera": "俯视",
+      "prop": "衣袍、针线篮",
+      "characters": [],
+      "act": ""
+    },
+    {
+      "index": 27,
+      "scene": "破屋屋内",
+      "shot_type": "中景",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "林越",
+          "text": "等我回来。",
+          "emotion": "郑重"
+        }
+      ],
+      "image_prompt": "林越站起身，把衣袍抱在怀里，回头对月白郑重地说。",
+      "image_prompt_en": "young man standing, holding robe, looking back at woman, speaking solemnly",
+      "action_en": "standing, holding robe",
+      "emotion": "郑重",
+      "emotion_en": "solemn expression, serious eyes",
+      "camera": "固定",
+      "prop": "衣袍",
+      "characters": [
+        "林越",
+        "月白"
+      ],
+      "act": "起身抱衣"
+    },
+    {
+      "index": 28,
+      "scene": "破屋屋内",
+      "shot_type": "特写",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "月白",
+          "text": "我等你。",
+          "emotion": "坚定"
+        }
+      ],
+      "image_prompt": "月白坐在灯下，双手交叠放在膝上，眼神坚定地望着林越。",
+      "image_prompt_en": "young woman sitting by lamp, hands folded on lap, determined gaze at man",
+      "action_en": "hands folded, gazing",
+      "emotion": "坚定",
+      "emotion_en": "determined expression, steady gaze",
+      "camera": "固定",
+      "prop": "",
+      "characters": [
+        "月白"
+      ],
+      "act": "双手交叠"
+    },
+    {
+      "index": 29,
+      "scene": "破屋屋内",
+      "shot_type": "中景",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "月白",
+          "text": "城南上元节有灯会。",
+          "emotion": "期待"
+        }
+      ],
+      "image_prompt": "月白坐在油灯旁，手里拿着针线，抬头看向林越，眼里带着光。",
+      "image_prompt_en": "young woman sitting by oil lamp, needle in hand, looking up at man, hopeful eyes",
+      "action_en": "looking up from sewing",
+      "emotion": "期待",
+      "emotion_en": "hopeful expression, soft eyes",
+      "camera": "固定",
+      "prop": "针线",
+      "characters": [
+        "月白"
+      ],
+      "act": "抬头提议"
+    },
+    {
+      "index": 30,
+      "scene": "破屋屋内",
+      "shot_type": "特写",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "月白",
+          "text": "听说今年的灯扎成了龙的样子。",
+          "emotion": "向往"
+        }
+      ],
+      "image_prompt": "月白的手指轻轻绕着线，眼神飘向窗外，嘴角微微上扬。",
+      "image_prompt_en": "close-up of woman's fingers winding thread, eyes gazing out window, faint smile",
+      "action_en": "winding thread, gazing away",
+      "emotion": "向往",
+      "emotion_en": "dreamy smile, distant gaze",
+      "camera": "缓推",
+      "prop": "针线",
+      "characters": [
+        "月白"
+      ],
+      "act": "绕线远望"
+    },
+    {
+      "index": 31,
+      "scene": "破屋屋内",
+      "shot_type": "过肩",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "月白",
+          "text": "从桥这头一直排到那头。",
+          "emotion": "憧憬"
+        }
+      ],
+      "image_prompt": "从林越肩后看月白，她用手比划着灯龙的长度，眼睛发亮。",
+      "image_prompt_en": "over man's shoulder, woman gesturing length of lantern dragon, eyes bright",
+      "action_en": "gesturing wide with hands",
+      "emotion": "憧憬",
+      "emotion_en": "excited expression, bright eyes",
+      "camera": "固定",
+      "prop": "",
+      "characters": [
+        "月白",
+        "林越"
+      ],
+      "act": "比划灯龙长度"
+    },
+    {
+      "index": 32,
+      "scene": "破屋屋内",
+      "shot_type": "中景",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "林越",
+          "text": "嗯。",
+          "emotion": "平静"
+        }
+      ],
+      "image_prompt": "林越坐在对面，手里握着断剑，低头应了一声，神色平淡。",
+      "image_prompt_en": "young man sitting opposite, holding broken sword, nodding slightly, calm face",
+      "action_en": "nodding slightly",
+      "emotion": "平静",
+      "emotion_en": "calm expression, neutral face",
+      "camera": "固定",
+      "prop": "断剑",
+      "characters": [
+        "林越"
+      ],
+      "act": "低头应声"
+    },
+    {
+      "index": 33,
+      "scene": "破屋屋内",
+      "shot_type": "特写",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "月白",
+          "text": "等打完这一仗，我们去看。",
+          "emotion": "认真"
+        }
+      ],
+      "image_prompt": "月白咬断线头，抬头直视林越，眼神坚定。",
+      "image_prompt_en": "close-up of woman biting thread, looking straight at man, determined eyes",
+      "action_en": "biting thread, looking up",
+      "emotion": "认真",
+      "emotion_en": "determined expression, firm eyes",
+      "camera": "缓推",
+      "prop": "针线",
+      "characters": [
+        "月白"
+      ],
+      "act": "咬断线头"
+    },
+    {
+      "index": 34,
+      "scene": "破屋屋内",
+      "shot_type": "中景",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "月白",
+          "text": "就一天。不许说军情紧急。",
+          "emotion": "娇嗔"
+        }
+      ],
+      "image_prompt": "月白伸出一根手指，故作严肃地指着林越，眼里却带着笑。",
+      "image_prompt_en": "woman raising one finger, pointing at man playfully, smiling eyes",
+      "action_en": "raising one finger, pointing",
+      "emotion": "娇嗔",
+      "emotion_en": "playful smile, raised brow",
+      "camera": "固定",
+      "prop": "",
+      "characters": [
+        "月白",
+        "林越"
+      ],
+      "act": "伸指约定"
+    },
+    {
+      "index": 35,
+      "scene": "破屋屋内",
+      "shot_type": "过肩",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "林越",
+          "text": "好。",
+          "emotion": "温和"
+        }
+      ],
+      "image_prompt": "从月白肩后看林越，他抬起头，嘴角露出一丝难得的笑意。",
+      "image_prompt_en": "over woman's shoulder, man lifting his head, rare faint smile",
+      "action_en": "lifting head, smiling faintly",
+      "emotion": "温和",
+      "emotion_en": "gentle smile, soft eyes",
+      "camera": "固定",
+      "prop": "",
+      "characters": [
+        "林越",
+        "月白"
+      ],
+      "act": "点头答应"
+    },
+    {
+      "index": 36,
+      "scene": "破屋屋内",
+      "shot_type": "空镜",
+      "narration": "那是她唯一一次讨要东西。",
+      "dialogues": [],
+      "image_prompt": "油灯焰心轻轻跳动，桌上放着缝好的衣袍和针线，窗外夜色深沉。",
+      "image_prompt_en": "oil lamp flickering, mended robe and needle on table, deep night outside window",
+      "action_en": "lamp flame flickering",
+      "emotion": "静谧",
+      "emotion_en": "quiet atmosphere, soft glow",
+      "camera": "缓推",
+      "prop": "油灯、衣袍",
+      "characters": [],
+      "act": "灯火跳动"
+    },
+    {
+      "index": 37,
+      "scene": "破屋屋内",
+      "shot_type": "死物",
+      "narration": "",
+      "dialogues": [],
+      "image_prompt": "缝补好的衣袍叠放在桌上，旧伤位置明显绕开了针脚，线迹细密。",
+      "image_prompt_en": "mended robe folded on table, stitching carefully avoiding worn spots, fine threads",
+      "action_en": "robe lying folded",
+      "emotion": "温情",
+      "emotion_en": "tender mood, soft light",
+      "camera": "俯视",
+      "prop": "衣袍",
+      "characters": [],
+      "act": "衣袍叠放"
+    },
+    {
+      "index": 38,
+      "scene": "破屋屋内",
+      "shot_type": "中景",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "月白",
+          "text": "很俗吧？就一场灯会。",
+          "emotion": "自嘲"
+        }
+      ],
+      "image_prompt": "月白低下头，手指摩挲着衣角，笑得有些不好意思。",
+      "image_prompt_en": "woman lowering head, fingers rubbing hem, shy self-deprecating smile",
+      "action_en": "rubbing hem, looking down",
+      "emotion": "自嘲",
+      "emotion_en": "shy smile, lowered eyes",
+      "camera": "固定",
+      "prop": "",
+      "characters": [
+        "月白"
+      ],
+      "act": "低头摩挲衣角"
+    },
+    {
+      "index": 39,
+      "scene": "破屋屋内",
+      "shot_type": "特写",
+      "narration": "",
+      "dialogues": [
+        {
+          "role": "林越",
+          "text": "不俗。",
+          "emotion": "认真"
+        }
+      ],
+      "image_prompt": "林越直视月白，眼神郑重，手里的断剑微微握紧。",
+      "image_prompt_en": "close-up of man looking at woman, serious eyes, gripping broken sword tighter",
+      "action_en": "gripping sword, serious gaze",
+      "emotion": "郑重",
+      "emotion_en": "serious expression, steady eyes",
+      "camera": "缓推",
+      "prop": "断剑",
+      "characters": [
+        "林越"
+      ],
+      "act": "握剑凝视"
+    },
+    {
+      "index": 40,
+      "scene": "破屋屋内",
+      "shot_type": "远景",
+      "narration": "灯会之约，成了她最后的念想。",
+      "dialogues": [],
+      "image_prompt": "破屋小小的窗口透出暖黄灯光，雪夜中远处传来军号声，林越的身影映在窗纸上。",
+      "image_prompt_en": "small window of broken house glowing warm yellow, snowy night, military horn distant, man's silhouette on paper window",
+      "action_en": "silhouette on window paper",
+      "emotion": "苍凉",
+      "emotion_en": "somber mood, cold night",
+      "camera": "拉远",
+      "prop": "",
+      "characters": [
+        "林越"
+      ],
+      "act": "窗纸映影"
+    }
+  ],
+  "summary": "雪夜，林越满身血污站在院门外不敢进，月白把他拽进屋，用温水擦他手上的冻疮和刀口。他嘴硬说不疼，她低头吹了吹，嗔怪他手在抖。后来每一次他回来，世人都敬畏地后退半步，只有月白敢伸手碰他的伤口，敢抱住那具冰冷的身躯。暮色里，她替他缝补衣袍，绕开旧伤的位置，缝得很慢。",
+  "new_foreshadowing": [
+    "月白缝补衣袍时绕开旧伤的位置",
+    "林越满身旧伤，暗示常年征战",
+    "上元节灯会之约能否兑现",
+    "林越此行凶险未卜",
+    "军号声暗示战事将起，灯会之约恐难实现",
+    "断剑被握紧，暗示下一场血战"
+  ],
+  "character_updates": [
+    {
+      "name": "林越",
+      "state": "负伤归来，被月白照料",
+      "appearance": "满身血污，手上有冻疮和刀口，铠甲冰冷"
+    },
+    {
+      "name": "月白",
+      "state": "细心照料林越，为他缝补衣袍",
+      "appearance": "温柔安静，眉眼柔和"
+    },
+    {
+      "name": "月白",
+      "state": "在家中等待林越归来，心怀灯会之约",
+      "appearance": "素衣，眼神温柔坚定"
+    },
+    {
+      "name": "林越",
+      "state": "即将出征，承诺回来陪月白看灯会",
+      "appearance": "身上带伤，缠着布条"
+    },
+    {
+      "name": "月白",
+      "state": "满心期待灯会，缝好衣袍",
+      "appearance": "低头浅笑，眼里有光"
+    },
+    {
+      "name": "林越",
+      "state": "答应赴约，但军号已响",
+      "appearance": "握紧断剑，神色郑重"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "project": "断剑月白",
+  "characters": {
+    "林越": {
+      "appearance_prompt": "",
+      "appearance_en": "",
+      "state": "",
+      "seed": 690357,
+      "voice": "",
+      "ref_image": "",
+      "relations": {},
+      "first_seen": 1
+    },
+    "月白": {
+      "appearance_prompt": "",
+      "appearance_en": "1girl, brown hair, low ponytail with indigo ribbon, gentle brown eyes, beige cross-collar hanfu, wide sleeves, cloth sash, grey-blue skirt",
+      "state": "",
+      "seed": 933279,
+      "voice": "",
+      "ref_image": "D:\\deepseek文件区\\manju\\assets\\characters\\月白.png",
+      "relations": {},
+      "first_seen": 1
+    }
+  },
+  "props": {},
+  "world": {
+    "locations": {},
+    "factions": {},
+    "rules": []
+  },
+  "visual": {
+    "style_anchor": "",
+    "refs": {},
+    "approved": [],
+    "lora": {}
+  },
+  "production": {},
+  "plot": {
+    "chapter": 1,
+    "progress": "雪夜，林越满身血污站在院门外，怕弄脏月白刚扫净的台阶。月白开门把他拽进屋，按在灯下，用温水擦他手上的冻疮和刀口。她问疼不疼，他嘴硬说不疼，她却低头吹了吹他的手，嗔怪他手在抖。林越看着她低垂的头顶，眼神动容。窗外大雪无声。",
+    "foreshadowing": [],
+    "timeline": []
+  },
+  "rolling_summary": [
+    "第1章：雪夜，林越满身血污站在院门外不敢进，月白把他拽进屋，用温水擦他手上的冻疮和刀口。他嘴硬说不疼，她低头吹了吹，嗔怪他手在抖。后来每一次他回来，世人都敬畏地后退半步，只有月白敢伸手碰他的伤口，敢抱住那具冰冷的身躯。暮色里，她替他缝补衣袍，绕开旧",
+    "第1章：雪夜，林越满身血污站在院门外，怕弄脏月白刚扫净的台阶。月白开门把他拽进屋，按在灯下，用温水擦他手上的冻疮和刀口。她问疼不疼，他嘴硬说不疼，她却低头吹了吹他的手，嗔怪他手在抖。林越看着她低垂的头顶，眼神动容。窗外大雪无声。"
+  ],
+  "updated_at": "2026-11-11 00:03:40",
+  "corrupt": false
+}
